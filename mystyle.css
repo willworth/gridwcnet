@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: wheat;
+    margin: 40px;
+    font-family: cursive;
+}
+
+
+.profilepic {
+    float: left;
+    width:500px;
+    border: 5px solid burlywood;
+    padding: 10px;
+    margin: 20px;
+}
+
+#title {
+    text-align: center;
+}
